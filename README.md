@@ -50,7 +50,7 @@ That includes:
 - [2b2t This Is My Home!](https://www.youtube.com/watch?v=IPmVHFwlbNc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
-▶️[more videos here ...](https://www.youtube.com/channel/UC6n1pf6jORsVnF6XeR-wLQw)
+▶️[---more videos here---](https://www.youtube.com/channel/UC6n1pf6jORsVnF6XeR-wLQw)
 
 ---
 
