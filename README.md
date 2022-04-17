@@ -42,7 +42,15 @@ That includes:
 
 ---
 
+🎬 Latest Youtube Videos
 
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+
+<!-- YOUTUBE-VIDEOS_LIST:END -->
+
+▶️[more videos here ...](https://www.youtube.com/channel/UC6n1pf6jORsVnF6XeR-wLQw)
+
+---
 
 <!--
 **Skattar/Skattar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
