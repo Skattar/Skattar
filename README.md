@@ -2,8 +2,7 @@
 
 ---
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6n1pf6jORsVnF6XeR-wLQw?label=Intellectuals%20subscribed%20to%20my%20channel&style=social)](https://www.youtube.com/channel/UC6n1pf6jORsVnF6XeR-wLQw)
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC6n1pf6jORsVnF6XeR-wLQw?label=Strangers%20and%20families%20viewing%20my%20channel&style=social)](https://www.instagram.com/chesslunatic/)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6n1pf6jORsVnF6XeR-wLQw?label=Intellectuals%20subscribed%20to%20my%20channel&style=social)](https://www.youtube.com/channel/UC6n1pf6jORsVnF6XeR-wLQw) [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC6n1pf6jORsVnF6XeR-wLQw?label=Families%20who%20viewed%20my%20channel&style=social)](https://www.youtube.com/channel/UC6n1pf6jORsVnF6XeR-wLQw/playlists)
 
 A hooman who's going to specialize in Asm, C, C++, C#, and python. Professional experience in **Unity**!
 
