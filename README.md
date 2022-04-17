@@ -46,7 +46,7 @@ That includes:
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 
-<!-- YOUTUBE-VIDEOS_LIST:END -->
+<!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️[more videos here ...](https://www.youtube.com/channel/UC6n1pf6jORsVnF6XeR-wLQw)
 
