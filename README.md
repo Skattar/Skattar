@@ -1,4 +1,12 @@
 ### Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ryan Ariza!
+- 🔭 I’m currently working on AR in Unity
+- 🌱 I’m currently learning Blender
+- 👯 I’m looking to collaborate on anything related to Unity
+- 🤔 I’m looking for help with Video Editing
+- 💬 Ask me about tips in Unity 3D
+- 📫 How to reach me: ryan.wiraariza@gmail.com
+- 😄 Pronouns: he/him/mi/yu
+- ⚡ Fun fact: I am a Language Enthusiast
 
 ---
 
@@ -25,7 +33,6 @@ That includes:
                - Blender journey
                
                - Hacking tools
-               
 
 ---
 
