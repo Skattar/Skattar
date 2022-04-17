@@ -45,7 +45,9 @@ That includes:
 🎬 Latest Youtube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-
+- [Savage using Fanny Ackerman in Master League](https://www.youtube.com/watch?v=2ek36eOhfLo)
+- [Billy Joel - Piano Man | But Its Raining](https://www.youtube.com/watch?v=VTUYyRLS3iY)
+- [2b2t This Is My Home!](https://www.youtube.com/watch?v=IPmVHFwlbNc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️[more videos here ...](https://www.youtube.com/channel/UC6n1pf6jORsVnF6XeR-wLQw)
