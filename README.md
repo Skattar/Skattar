@@ -16,7 +16,7 @@ A hooman who's going to specialize in Asm, C, C++, C#, and python. Professional 
 
 I'm determined to set my own ethical Youtube channel, creating covers, streams, funny skits, and experiences weekly hopefully daily.
 
-I managed my online presence with the help of my [Youtube channel](https://www.youtube.com/channel/UC6n1pf6jORsVnF6XeR-wLQw) and [Instagram page](https://www.instagram.com/chesslunatic/).
+Check out my [Youtube channel](https://www.youtube.com/channel/UC6n1pf6jORsVnF6XeR-wLQw) and [Instagram page](https://www.instagram.com/chesslunatic/).
 
 ---
 
