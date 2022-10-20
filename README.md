@@ -51,6 +51,7 @@ That includes:
 🎬 Latest Youtube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Gabut chilling at me friend&#39;s house](https://www.youtube.com/watch?v=kCEmnHDguYk)
 - [Savage using Fanny Ackerman in Master League](https://www.youtube.com/watch?v=2ek36eOhfLo)
 - [Billy Joel - Piano Man | But Its Raining](https://www.youtube.com/watch?v=VTUYyRLS3iY)
 - [2b2t This Is My Home!](https://www.youtube.com/watch?v=IPmVHFwlbNc)
